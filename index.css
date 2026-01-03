@@ -1,0 +1,10 @@
+h1{
+    color: aqua;
+    background-color: black;
+    width: 400px;
+    text-align: center;
+}
+p{
+    color: aquamarine;
+    text-shadow: 2px 1px 2px 1px rgb(0, 183, 255);
+}
